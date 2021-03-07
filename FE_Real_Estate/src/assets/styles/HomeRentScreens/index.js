@@ -1,0 +1,1 @@
+export { default as StylesHomeRent } from './ListHomeRent.style'

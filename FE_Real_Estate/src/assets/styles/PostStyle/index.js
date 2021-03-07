@@ -1,0 +1,1 @@
+export { default as StylesFormPost } from './FormPost.Style'

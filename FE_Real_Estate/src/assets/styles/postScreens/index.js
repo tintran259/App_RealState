@@ -1,0 +1,1 @@
+export { default as StylesPostScreens } from './postScreens.style'

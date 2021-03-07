@@ -1,0 +1,1 @@
+export { default as IMAGES } from './IMAGES'

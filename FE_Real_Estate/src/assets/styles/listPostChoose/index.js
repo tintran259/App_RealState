@@ -1,0 +1,1 @@
+export { default as StylesListPostChoose } from './listPostChooseScreens.style'

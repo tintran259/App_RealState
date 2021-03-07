@@ -1,0 +1,1 @@
+export { default as NAME_ACTION } from './NAME_ACTION'

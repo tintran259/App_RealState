@@ -1,0 +1,1 @@
+export { default as ListHomeRent } from './ListHomeRent'
